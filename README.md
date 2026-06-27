@@ -7,11 +7,11 @@
 ![Records](https://img.shields.io/badge/Records-588%2C101-7C3AED?style=for-the-badge)
 ![Lift](https://img.shields.io/badge/Ad%20Lift-43.09%25-10B981?style=for-the-badge)
 
-![Marketing AB Testing Dashboard](Marketing AB Testing Dashboard.jpeg)
+![Marketing AB Testing Dashboard](Marketing%20AB%20Testing%20Dashboard.jpeg)
 
-![Marketing AB Testing Dashboard 2](marketing-ab-testing-dashboard-2.jpeg)
+![Marketing AB Testing Dashboard 2](Marketing%20AB%20Testing%20Dashboard%20%282%29.jpeg)
 
-![Marketing AB Testing Dashboard 3](marketing-ab-testing-dashboard-3.jpeg)
+![Marketing AB Testing Dashboard 3](Marketing%20AB%20Testing%20Dashboard%20%283%29.jpeg)
 
 > Data Analytics · IK.S. · Tools: MySQL → Power BI
 > **Note: Excel was NOT used — EDA confirmed it was unnecessary**
