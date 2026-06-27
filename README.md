@@ -7,7 +7,7 @@
 ![Records](https://img.shields.io/badge/Records-588%2C101-7C3AED?style=for-the-badge)
 ![Lift](https://img.shields.io/badge/Ad%20Lift-43.09%25-10B981?style=for-the-badge)
 
-![Marketing AB Testing Dashboard](marketing-ab-testing-dashboard-1.jpeg)
+![Marketing AB Testing Dashboard](Marketing AB Testing Dashboard.jpeg)
 
 ![Marketing AB Testing Dashboard 2](marketing-ab-testing-dashboard-2.jpeg)
 
